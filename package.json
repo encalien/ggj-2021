@@ -1,0 +1,18 @@
+{
+  "name": "game_jam_2021",
+  "version": "1.0.0",
+  "description": "game for Slovenia Global Game Jam 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browser",
+    "game"
+  ],
+  "author": "Arto, Katarina",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.52.0"
+  }
+}
